@@ -57,16 +57,16 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      description: "hello@aisolutionmates.com",
+      description: "aisolutionsmate@gmail.com",
       action: "Send Email",
-      href: "mailto:hello@aisolutionmates.com"
+      href: "mailto:aisolutionsmate@gmail.com"
     },
     {
       icon: Phone,
       title: "Call Us",
-      description: "+1 (555) 123-4567",
+      description: "+91 (741) 203-0210",
       action: "Call Now",
-      href: "tel:+15551234567"
+      href: "tel:+917412030210"
     },
     {
       icon: MapPin,
