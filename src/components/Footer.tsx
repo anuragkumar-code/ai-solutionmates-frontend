@@ -22,8 +22,8 @@ const Footer = () => {
   ];
 
   const contact = [
-    { icon: Mail, text: "hello@aisolutionmates.com", href: "mailto:hello@aisolutionmates.com" },
-    { icon: Phone, text: "+1 (555) 123-4567", href: "tel:+15551234567" },
+    { icon: Mail, text: "aisolutionsmate@gmail.com", href: "mailto:aisolutionsmate@gmail.com" },
+    { icon: Phone, text: "+91 (741) 203-0210", href: "tel:+917412030210" },
     { icon: MapPin, text: "San Francisco, CA", href: "#" },
   ];
 
